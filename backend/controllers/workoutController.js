@@ -1,5 +1,6 @@
 import Workout from '../models/workoutModel.js';
 import mongoose from 'mongoose';
+// test
 
 // Get all workouts
 export const getWorkouts = async (req, res) => {
